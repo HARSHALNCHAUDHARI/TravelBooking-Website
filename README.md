@@ -1,5 +1,6 @@
 <div align="center">
-  ## Overview
+
+## Overview
 Tourest is a sleek, user-friendly travel website designed to offer an engaging experience for users interested in exploring and booking travel options. Built with modern web technologies like HTML, CSS, and JavaScript, this project aims to provide a clean, responsive, and functional platform for showcasing destinations, providing information, and offering booking capabilities.
 
 The website is fully responsive, ensuring seamless browsing on desktops, tablets, and mobile devices. It is ideal for developers and beginners looking for a reference in building travel websites or seeking inspiration for their own projects.
